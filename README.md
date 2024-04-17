@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Eu ❤️ resolvo grandes desafios usando tecnologia. <br><br> Atualmente atuo como Analista de Dados, sou apaixonado por resolver problemas complexos através da tecnologia. Gosto de equilibrar minha carreira entre competências técnicas e gerenciais, por isso ganhei experiência atuando em equipes, coordenando projetos, analisando e melhorando continuamente ETLs e projetos de grande porte, integrando tudo isso aos fundamentos do desenvolvimento ágil.
+<p align="center">Sou fascinado por grandes desafios usando tecnologia. <br><br> Atualmente atuo como Analista de Dados, sou apaixonado por resolver problemas complexos. Gosto de equilibrar minha carreira entre competências técnicas e gerenciais, por isso ganhei experiência atuando em equipes, coordenando projetos, analisando e melhorando continuamente ETLs e projetos de grande porte, integrando tudo isso aos fundamentos do desenvolvimento ágil.
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
