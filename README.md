@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Moreira%20Skills&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=300&text=Moreira%20Skills&section=header" />
 &nbsp;&nbsp;&nbsp;
 
 
@@ -12,8 +12,8 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=glaydson-moreira&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-glaydson-moreira.vercel.app/api/top-langs/?username=glaydson-moreira&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
