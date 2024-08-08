@@ -1,9 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=300&text=Moreira%20Skills&section=header" />
-&nbsp;&nbsp;&nbsp;
-
-
-<p align="center">Sou fascinado por grandes desafios usando tecnologia.</p>
-
 <p align="center">Sou um entusiasta apaixonado por grandes desafios que envolvem tecnologia. Atualmente, atuo como
     Analista de Dados, onde mergulho de cabeça na resolução de problemas complexos. Com uma carreira marcada pela busca
     do equilíbrio entre competências técnicas e gerenciais, adquiri uma vasta experiência liderando equipes, coordenando
