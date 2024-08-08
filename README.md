@@ -4,6 +4,7 @@
     projetos e aprimorando continuamente processos como ETLs e projetos de grande porte. Além disso, integro habilmente
     os princípios do desenvolvimento ágil em todas as minhas iniciativas.</p>&nbsp;
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=glaydson-moreira&theme=radical&mode=weekly" />
