@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Glaydson Moreira :Data Analyst:</h1>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <br/>
-<br/>
 
 **Social Media:**
 
@@ -35,16 +34,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-E95420?style=for-the-badge&logo=DBeaver&logoColor=white)
 <br/>
-
----
-
-<h3 align="center">⭐  Statistics</h3>
-  
-|Wakatime Stats|
-|:---:|
-|[![Glaydson Moreira wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=glaydson-moreira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
-
-</div>
 
 ---
 
