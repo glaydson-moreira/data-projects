@@ -38,6 +38,14 @@
 ---
 
 <div align="center">
+
+<div align="center">
+  
+|GITHUB STATS|MOST USED LANGUAGES|
+|:---:|:---:|
+|[![Glaydson Moreira github stats](https://github-readme-stats.vercel.app/api?username=glaydson-moreira&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=glaydson-moreira&hide=C%23&theme=midnight-purple&layout=compact&langs_count=8&hide_title=true)
+
+<div align="center">
   
 |GITHUB TROPHIES|
 |:---:|
